@@ -17,6 +17,6 @@
  ‎‎  ‎‎   ‎‎  ‎‎‎‎  ‎‎  ‎‎ ‎ ‎‎  ‎‎  listening‎‎ to    ‎‎  ‎‎  ‎‎ ‎ ‎‎  ‎‎  ‎‎  ‎‎  ‎‎  ‎‎ ‎ ‎‎ ‎‎  ‎‎  ‎‎ ‎ ‎‎ ‎‎↓
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hhsipyktbzerhcpvazh4hnbmfy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hhsipyktbzerhcpvazh4hnbmfy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=380b0b&interchange=true&profanity=false&bar_color=51636E&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hhsipyktbzerhcpvazh4hnbmfy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=380b0b&interchange=true&profanity=false&bar_color=D2B97A&bar_color_cover=false">
   </a>
 </p>
