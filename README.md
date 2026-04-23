@@ -6,7 +6,7 @@
 <marquee behavior="scroll" direction="left" scrollamount="6">" He's my man. We're hand in hand, to hell and back, and I love him like nobody else can. "</marquee>
 
 <p align="center">
-  <img width="650" src="https://i.postimg.cc/2jG76Y5t/qdwou.png?v=e3c0bc0f=true" alt="."/>
+  <img width="650" src="https://i.postimg.cc/tgkPwsL1/ghc.png?v=e3c0bc0f=true" alt="."/>
 </p>
  ‎ ‎ ‎
 <p align="center">
